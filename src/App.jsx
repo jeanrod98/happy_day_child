@@ -6,7 +6,7 @@ import Desafios from './Components/Desafios'
 import styled from 'styled-components'
 
 function App() {
-  const [mostrarDesafios, setMostrarDesafios] = useState(true)
+  const [mostrarDesafios, setMostrarDesafios] = useState(false)
 
   return (
     <>
